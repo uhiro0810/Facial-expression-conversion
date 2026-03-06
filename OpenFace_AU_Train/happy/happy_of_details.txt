@@ -1,0 +1,10 @@
+Input:/content/drive/MyDrive/AffectNet/Train/happy
+Input full path:/content/drive/MyDrive/AffectNet/Train/happy
+Camera parameters:87.5,87.5,48,48
+Output csv:happy.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0
